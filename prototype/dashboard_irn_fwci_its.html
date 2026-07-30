@@ -141,7 +141,7 @@ table.list tr.watch td{background:var(--red-light)}
   </aside>
 
   <main class="main">
-    <div class="banner">Prototipe interaktif — data merujuk ke satu snapshot tahun (lihat penanda di judul tiap halaman). Untuk proyeksi ke tahun lain, lihat halaman Simulator IRN. Seluruh angka bersifat ilustratif untuk menguji tampilan.</div>
+    <div class="banner">Prototipe interaktif (Data Dummy) — data merujuk ke satu snapshot tahun (lihat penanda di judul tiap halaman). Untuk proyeksi ke tahun lain, lihat halaman Simulator IRN. Seluruh angka bersifat ilustratif untuk menguji tampilan.</div>
 
     <section class="page active" id="page-ringkasan">
       <div class="page-head"><h1>Ringkasan Eksekutif<span class="year-chip">Data IRN &amp; FWCI: 2026</span></h1><p>Posisi Institut Teknologi Sepuluh Nopember terhadap target peringkat QS 300.</p></div>
@@ -1445,5 +1445,51 @@ async function boot(){
 }
 boot();
 </script>
+<!-- Popup Prototype -->
+<div id="prototypeModal" style="
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.6);
+    z-index:99999;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+">
+    <div style="
+        background:white;
+        padding:30px;
+        max-width:600px;
+        border-radius:10px;
+        text-align:center;
+        box-shadow:0 0 20px rgba(0,0,0,.3);
+    ">
+        <h2>⚠️ Prototype Dashboard</h2>
+
+        <p>
+            Dashboard ini masih dalam tahap <b>prototype</b>.
+        </p>
+
+        <p>
+            Seluruh data yang ditampilkan merupakan <b>data dummy/simulasi</b>
+            dan tidak merepresentasikan data aktual ITS.
+        </p>
+
+        <p>
+            Tampilan, indikator, dan perhitungan masih dapat berubah selama proses pengembangan.
+        </p>
+
+        <button onclick="document.getElementById('prototypeModal').style.display='none';"
+                style="
+                    padding:10px 20px;
+                    cursor:pointer;
+                    font-size:14px;
+                ">
+            Saya Mengerti
+        </button>
+    </div>
+</div>
 </body>
 </html>
