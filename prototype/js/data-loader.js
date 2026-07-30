@@ -18,7 +18,7 @@ function validateDataset(d){
 
 async function loadDataset(){
   try {
-    const res = await fetch('./data/dataset.json');
+    const res = await fetch('../data/dataset.json');
     if (res.ok) return validateDataset(await res.json());
   } catch (e) {
     // fetch gagal (mis. dibuka via file://) - lanjut ke fallback di bawah
