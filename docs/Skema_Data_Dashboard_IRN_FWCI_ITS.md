@@ -88,8 +88,10 @@ Lihat diagram ERD di atas. `Universitas_Pembanding` sengaja tidak digambar di si
 | nama_universitas | teks | ya | |
 | tahun_data | angka | ya | rank QS berubah tiap tahun, perlu ditandai |
 | rank_qs_overall | angka | ya | |
-| fwci_per_bidang | 5 nilai (satu per bidang QS) | ya | idealnya tabel bantu `Universitas_Pembanding_FWCI(universitas_id, bidang_qs, nilai)` |
-| L_negara_sustained, P_institusi_sustained | angka | ya | per bidang, sama seperti tabel FWCI di atas |
+| L_negara_sustained_agregat | angka | ya | agregat (bukan per bidang) — dipakai chart "IRN per dimensi" di Benchmark |
+| P_institusi_sustained_agregat | angka | ya | agregat, sama seperti di atas |
+
+FWCI per bidang tetap di tabel bantu terpisah `Universitas_Pembanding_FWCI(universitas_id, bidang_qs, fwci)` — L/P di atas sengaja agregat saja (tidak per bidang) karena chart yang memakainya juga menampilkan agregat.
 
 ### 2.8 Metrik_ITS_Tahunan (snapshot institusi ITS sendiri, per tahun) — **baru**
 Ini beda sifat dari tabel lain: bukan transaksional, tapi **snapshot resmi dari QS/SciVal** per tahun. Tidak bisa dihitung dari `Publikasi` karena rank QS dan skor IRN resmi itu terbitan pihak QS, bukan hasil olahan kita sendiri.

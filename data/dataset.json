@@ -1,0 +1,2831 @@
+{
+  "fakultas": [
+    {
+      "id": "F01",
+      "nama_fakultas": "Faculty of Marine Technology"
+    },
+    {
+      "id": "F02",
+      "nama_fakultas": "Faculty of Intelligent Electrical and Informatics Technology"
+    },
+    {
+      "id": "F03",
+      "nama_fakultas": "Faculty of Civil, Planning, and Geo-Engineering"
+    },
+    {
+      "id": "F04",
+      "nama_fakultas": "Faculty of Industrial Technology and System Engineering"
+    },
+    {
+      "id": "F05",
+      "nama_fakultas": "Faculty of Creative Design and Digital Business"
+    },
+    {
+      "id": "F06",
+      "nama_fakultas": "Faculty of Medicine and Health"
+    },
+    {
+      "id": "F07",
+      "nama_fakultas": "Faculty of Science and Data Analytics"
+    },
+    {
+      "id": "F08",
+      "nama_fakultas": "Faculty of Vocation"
+    },
+    {
+      "id": "F09",
+      "nama_fakultas": "School of Interdisciplinary Management and Technology"
+    }
+  ],
+  "departemen": [
+    {
+      "id": "D01",
+      "fakultas_id": "F01",
+      "nama_departemen": "Department of Marine Transportation Engineering"
+    },
+    {
+      "id": "D02",
+      "fakultas_id": "F01",
+      "nama_departemen": "Department of Marine Engineering"
+    },
+    {
+      "id": "D03",
+      "fakultas_id": "F02",
+      "nama_departemen": "Department of Information Technology"
+    },
+    {
+      "id": "D04",
+      "fakultas_id": "F02",
+      "nama_departemen": "Department of Informatics"
+    },
+    {
+      "id": "D05",
+      "fakultas_id": "F02",
+      "nama_departemen": "Department of Electrical Engineering"
+    },
+    {
+      "id": "D06",
+      "fakultas_id": "F03",
+      "nama_departemen": "Departemen contoh"
+    },
+    {
+      "id": "D07",
+      "fakultas_id": "F04",
+      "nama_departemen": "Departemen contoh"
+    },
+    {
+      "id": "D08",
+      "fakultas_id": "F05",
+      "nama_departemen": "Departemen contoh"
+    },
+    {
+      "id": "D09",
+      "fakultas_id": "F06",
+      "nama_departemen": "Departemen contoh"
+    },
+    {
+      "id": "D10",
+      "fakultas_id": "F07",
+      "nama_departemen": "Departemen contoh"
+    },
+    {
+      "id": "D11",
+      "fakultas_id": "F08",
+      "nama_departemen": "Departemen contoh"
+    },
+    {
+      "id": "D12",
+      "fakultas_id": "F09",
+      "nama_departemen": "Departemen contoh"
+    }
+  ],
+  "dosen": [
+    {
+      "id": "DS001",
+      "departemen_id": "D01",
+      "nama": "Tri Achmadi, Ir., Ph.D."
+    },
+    {
+      "id": "DS002",
+      "departemen_id": "D01",
+      "nama": "Dosen 01"
+    },
+    {
+      "id": "DS003",
+      "departemen_id": "D01",
+      "nama": "Dosen 02"
+    },
+    {
+      "id": "DS004",
+      "departemen_id": "D01",
+      "nama": "Dosen 03"
+    },
+    {
+      "id": "DS005",
+      "departemen_id": "D02",
+      "nama": "I Gde Manik Sukanegara Adhita, S.T., M.MST., Ph.D."
+    },
+    {
+      "id": "DS006",
+      "departemen_id": "D02",
+      "nama": "Thariq Arafatul Akbar, S.T., M.T."
+    },
+    {
+      "id": "DS007",
+      "departemen_id": "D02",
+      "nama": "Erzad Iskandar Putra"
+    },
+    {
+      "id": "DS008",
+      "departemen_id": "D02",
+      "nama": "Dosen 04"
+    },
+    {
+      "id": "DS009",
+      "departemen_id": "D03",
+      "nama": "Gagatsatya Adiatmaja, S.T., M.Kom."
+    },
+    {
+      "id": "DS010",
+      "departemen_id": "D03",
+      "nama": "Dosen 05"
+    },
+    {
+      "id": "DS011",
+      "departemen_id": "D03",
+      "nama": "Dosen 06"
+    },
+    {
+      "id": "DS012",
+      "departemen_id": "D03",
+      "nama": "Dosen 07"
+    },
+    {
+      "id": "DS013",
+      "departemen_id": "D04",
+      "nama": "Ilham Gurat Adillion, S.Kom., M.Kom."
+    },
+    {
+      "id": "DS014",
+      "departemen_id": "D04",
+      "nama": "Tohari Ahmad"
+    },
+    {
+      "id": "DS015",
+      "departemen_id": "D04",
+      "nama": "Dosen 08"
+    },
+    {
+      "id": "DS016",
+      "departemen_id": "D04",
+      "nama": "Dosen 09"
+    },
+    {
+      "id": "DS017",
+      "departemen_id": "D05",
+      "nama": "Achmad Affandi, Dr., Ir., DEA"
+    },
+    {
+      "id": "DS018",
+      "departemen_id": "D05",
+      "nama": "Dosen 10"
+    },
+    {
+      "id": "DS019",
+      "departemen_id": "D05",
+      "nama": "Dosen 11"
+    },
+    {
+      "id": "DS020",
+      "departemen_id": "D05",
+      "nama": "Dosen 12"
+    },
+    {
+      "id": "DS021",
+      "departemen_id": "D06",
+      "nama": "Dosen 13"
+    },
+    {
+      "id": "DS022",
+      "departemen_id": "D06",
+      "nama": "Dosen 14"
+    },
+    {
+      "id": "DS023",
+      "departemen_id": "D06",
+      "nama": "Dosen 15"
+    },
+    {
+      "id": "DS024",
+      "departemen_id": "D06",
+      "nama": "Dosen 16"
+    },
+    {
+      "id": "DS025",
+      "departemen_id": "D07",
+      "nama": "Dosen 17"
+    },
+    {
+      "id": "DS026",
+      "departemen_id": "D07",
+      "nama": "Dosen 18"
+    },
+    {
+      "id": "DS027",
+      "departemen_id": "D07",
+      "nama": "Dosen 19"
+    },
+    {
+      "id": "DS028",
+      "departemen_id": "D07",
+      "nama": "Dosen 20"
+    },
+    {
+      "id": "DS029",
+      "departemen_id": "D08",
+      "nama": "Dosen 21"
+    },
+    {
+      "id": "DS030",
+      "departemen_id": "D08",
+      "nama": "Dosen 22"
+    },
+    {
+      "id": "DS031",
+      "departemen_id": "D08",
+      "nama": "Dosen 23"
+    },
+    {
+      "id": "DS032",
+      "departemen_id": "D08",
+      "nama": "Dosen 24"
+    },
+    {
+      "id": "DS033",
+      "departemen_id": "D09",
+      "nama": "Dosen 25"
+    },
+    {
+      "id": "DS034",
+      "departemen_id": "D09",
+      "nama": "Dosen 26"
+    },
+    {
+      "id": "DS035",
+      "departemen_id": "D09",
+      "nama": "Dosen 27"
+    },
+    {
+      "id": "DS036",
+      "departemen_id": "D09",
+      "nama": "Dosen 28"
+    },
+    {
+      "id": "DS037",
+      "departemen_id": "D10",
+      "nama": "Dosen 29"
+    },
+    {
+      "id": "DS038",
+      "departemen_id": "D10",
+      "nama": "Dosen 30"
+    },
+    {
+      "id": "DS039",
+      "departemen_id": "D10",
+      "nama": "Dosen 31"
+    },
+    {
+      "id": "DS040",
+      "departemen_id": "D10",
+      "nama": "Dosen 32"
+    },
+    {
+      "id": "DS041",
+      "departemen_id": "D11",
+      "nama": "Dosen 33"
+    },
+    {
+      "id": "DS042",
+      "departemen_id": "D11",
+      "nama": "Dosen 34"
+    },
+    {
+      "id": "DS043",
+      "departemen_id": "D11",
+      "nama": "Dosen 35"
+    },
+    {
+      "id": "DS044",
+      "departemen_id": "D11",
+      "nama": "Dosen 36"
+    },
+    {
+      "id": "DS045",
+      "departemen_id": "D12",
+      "nama": "Dosen 37"
+    },
+    {
+      "id": "DS046",
+      "departemen_id": "D12",
+      "nama": "Dosen 38"
+    },
+    {
+      "id": "DS047",
+      "departemen_id": "D12",
+      "nama": "Dosen 39"
+    },
+    {
+      "id": "DS048",
+      "departemen_id": "D12",
+      "nama": "Dosen 40"
+    }
+  ],
+  "institusiMitra": [
+    {
+      "id": "M01",
+      "nama_institusi": "National University of Singapore (NUS)",
+      "negara": "Singapura",
+      "catatan": null
+    },
+    {
+      "id": "M02",
+      "nama_institusi": "Universiti Teknologi Malaysia (UTM)",
+      "negara": "Malaysia",
+      "catatan": null
+    },
+    {
+      "id": "M03",
+      "nama_institusi": "Seoul National University",
+      "negara": "Korea Selatan",
+      "catatan": null
+    },
+    {
+      "id": "M04",
+      "nama_institusi": "Kyoto University",
+      "negara": "Jepang",
+      "catatan": null
+    },
+    {
+      "id": "M05",
+      "nama_institusi": "University of Queensland",
+      "negara": "Australia",
+      "catatan": null
+    },
+    {
+      "id": "M06",
+      "nama_institusi": "Universitas Malaya",
+      "negara": "Malaysia",
+      "catatan": null
+    },
+    {
+      "id": "M07",
+      "nama_institusi": "TU Delft",
+      "negara": "Belanda",
+      "catatan": null
+    },
+    {
+      "id": "M08",
+      "nama_institusi": "Universiti Kuala Lumpur",
+      "negara": "Malaysia",
+      "catatan": null
+    },
+    {
+      "id": "M09",
+      "nama_institusi": "University of Rwanda",
+      "negara": "Rwanda",
+      "catatan": null
+    },
+    {
+      "id": "M10",
+      "nama_institusi": "KAIST",
+      "negara": "Korea Selatan",
+      "catatan": null
+    },
+    {
+      "id": "M11",
+      "nama_institusi": "Chulalongkorn University",
+      "negara": "Thailand",
+      "catatan": null
+    },
+    {
+      "id": "M12",
+      "nama_institusi": "University of Melbourne",
+      "negara": "Australia",
+      "catatan": null
+    },
+    {
+      "id": "M13",
+      "nama_institusi": "IIT Delhi",
+      "negara": "India",
+      "catatan": null
+    },
+    {
+      "id": "M14",
+      "nama_institusi": "Tokyo Institute of Technology",
+      "negara": "Jepang",
+      "catatan": null
+    },
+    {
+      "id": "M15",
+      "nama_institusi": "RWTH Aachen",
+      "negara": "Jerman",
+      "catatan": null
+    },
+    {
+      "id": "M16",
+      "nama_institusi": "NTU Singapore",
+      "negara": "Singapura",
+      "catatan": null
+    },
+    {
+      "id": "M17",
+      "nama_institusi": "University of Southampton",
+      "negara": "Inggris",
+      "catatan": null
+    },
+    {
+      "id": "M18",
+      "nama_institusi": "Shanghai Jiao Tong University",
+      "negara": "Tiongkok",
+      "catatan": null
+    },
+    {
+      "id": "M19",
+      "nama_institusi": "KMUTT",
+      "negara": "Thailand",
+      "catatan": null
+    },
+    {
+      "id": "M20",
+      "nama_institusi": "University of the Philippines",
+      "negara": "Filipina",
+      "catatan": null
+    },
+    {
+      "id": "M21",
+      "nama_institusi": "Hanoi University of Science and Technology",
+      "negara": "Vietnam",
+      "catatan": null
+    },
+    {
+      "id": "M22",
+      "nama_institusi": "Universiti Teknologi Petronas",
+      "negara": "Malaysia",
+      "catatan": null
+    },
+    {
+      "id": "M23",
+      "nama_institusi": "University of Cape Town",
+      "negara": "Afrika Selatan",
+      "catatan": null
+    },
+    {
+      "id": "M24",
+      "nama_institusi": "Nanjing University",
+      "negara": "Tiongkok",
+      "catatan": null
+    }
+  ],
+  "publikasi": [
+    {
+      "id": "P0001",
+      "institusi_mitra_id": "M01",
+      "tahun_terbit": 2022,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.87,
+      "judul": "Kolaborasi riset dengan National University of Singapore (NUS) (2022) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0002",
+      "institusi_mitra_id": "M01",
+      "tahun_terbit": 2023,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.89,
+      "judul": "Kolaborasi riset dengan National University of Singapore (NUS) (2023) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0003",
+      "institusi_mitra_id": "M01",
+      "tahun_terbit": 2024,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.81,
+      "judul": "Kolaborasi riset dengan National University of Singapore (NUS) (2024) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0004",
+      "institusi_mitra_id": "M01",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.79,
+      "judul": "Kolaborasi riset dengan National University of Singapore (NUS) (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0005",
+      "institusi_mitra_id": "M01",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.91,
+      "judul": "Kolaborasi riset dengan National University of Singapore (NUS) (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0006",
+      "institusi_mitra_id": "M02",
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.11,
+      "judul": "Kolaborasi riset dengan Universiti Teknologi Malaysia (UTM) (2023) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0007",
+      "institusi_mitra_id": "M02",
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.02,
+      "judul": "Kolaborasi riset dengan Universiti Teknologi Malaysia (UTM) (2024) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0008",
+      "institusi_mitra_id": "M02",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.06,
+      "judul": "Kolaborasi riset dengan Universiti Teknologi Malaysia (UTM) (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0009",
+      "institusi_mitra_id": "M02",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.02,
+      "judul": "Kolaborasi riset dengan Universiti Teknologi Malaysia (UTM) (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0010",
+      "institusi_mitra_id": "M03",
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.71,
+      "judul": "Kolaborasi riset dengan Seoul National University (2022) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0011",
+      "institusi_mitra_id": "M03",
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.71,
+      "judul": "Kolaborasi riset dengan Seoul National University (2023) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0012",
+      "institusi_mitra_id": "M03",
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.67,
+      "judul": "Kolaborasi riset dengan Seoul National University (2024) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0013",
+      "institusi_mitra_id": "M03",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.67,
+      "judul": "Kolaborasi riset dengan Seoul National University (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0014",
+      "institusi_mitra_id": "M03",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.64,
+      "judul": "Kolaborasi riset dengan Seoul National University (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0015",
+      "institusi_mitra_id": "M04",
+      "tahun_terbit": 2022,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.51,
+      "judul": "Kolaborasi riset dengan Kyoto University (2022) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0016",
+      "institusi_mitra_id": "M04",
+      "tahun_terbit": 2023,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.48,
+      "judul": "Kolaborasi riset dengan Kyoto University (2023) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0017",
+      "institusi_mitra_id": "M04",
+      "tahun_terbit": 2024,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.41,
+      "judul": "Kolaborasi riset dengan Kyoto University (2024) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0018",
+      "institusi_mitra_id": "M05",
+      "tahun_terbit": 2022,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.27,
+      "judul": "Kolaborasi riset dengan University of Queensland (2022) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0019",
+      "institusi_mitra_id": "M05",
+      "tahun_terbit": 2023,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.14,
+      "judul": "Kolaborasi riset dengan University of Queensland (2023) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0020",
+      "institusi_mitra_id": "M05",
+      "tahun_terbit": 2024,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.14,
+      "judul": "Kolaborasi riset dengan University of Queensland (2024) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0021",
+      "institusi_mitra_id": "M06",
+      "tahun_terbit": 2022,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.97,
+      "judul": "Kolaborasi riset dengan Universitas Malaya (2022) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0022",
+      "institusi_mitra_id": "M06",
+      "tahun_terbit": 2023,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.99,
+      "judul": "Kolaborasi riset dengan Universitas Malaya (2023) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0023",
+      "institusi_mitra_id": "M06",
+      "tahun_terbit": 2024,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.89,
+      "judul": "Kolaborasi riset dengan Universitas Malaya (2024) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0024",
+      "institusi_mitra_id": "M07",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.55,
+      "judul": "Kolaborasi riset dengan TU Delft (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0025",
+      "institusi_mitra_id": "M07",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.59,
+      "judul": "Kolaborasi riset dengan TU Delft (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0026",
+      "institusi_mitra_id": "M08",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.07,
+      "judul": "Kolaborasi riset dengan Universiti Kuala Lumpur (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0027",
+      "institusi_mitra_id": "M09",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.78,
+      "judul": "Kolaborasi riset dengan University of Rwanda (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0028",
+      "institusi_mitra_id": "M10",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.73,
+      "judul": "Kolaborasi riset dengan KAIST (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0029",
+      "institusi_mitra_id": "M10",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.78,
+      "judul": "Kolaborasi riset dengan KAIST (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0030",
+      "institusi_mitra_id": "M12",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.33,
+      "judul": "Kolaborasi riset dengan University of Melbourne (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0031",
+      "institusi_mitra_id": "M12",
+      "tahun_terbit": 2026,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.38,
+      "judul": "Kolaborasi riset dengan University of Melbourne (2026) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0032",
+      "institusi_mitra_id": "M13",
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.56,
+      "judul": "Kolaborasi riset dengan IIT Delhi (2024) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0033",
+      "institusi_mitra_id": "M13",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.46,
+      "judul": "Kolaborasi riset dengan IIT Delhi (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0034",
+      "institusi_mitra_id": "M15",
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.45,
+      "judul": "Kolaborasi riset dengan RWTH Aachen (2025) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0035",
+      "institusi_mitra_id": "M17",
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.53,
+      "judul": "Kolaborasi riset dengan University of Southampton (2022) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0036",
+      "institusi_mitra_id": "M18",
+      "tahun_terbit": 2023,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.63,
+      "judul": "Kolaborasi riset dengan Shanghai Jiao Tong University (2023) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0037",
+      "institusi_mitra_id": "M20",
+      "tahun_terbit": 2022,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.42,
+      "judul": "Kolaborasi riset dengan University of the Philippines (2022) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0038",
+      "institusi_mitra_id": "M22",
+      "tahun_terbit": 2017,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.78,
+      "judul": "Kolaborasi riset dengan Universiti Teknologi Petronas (2017) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0039",
+      "institusi_mitra_id": "M22",
+      "tahun_terbit": 2018,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.8,
+      "judul": "Kolaborasi riset dengan Universiti Teknologi Petronas (2018) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0040",
+      "institusi_mitra_id": "M22",
+      "tahun_terbit": 2019,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.81,
+      "judul": "Kolaborasi riset dengan Universiti Teknologi Petronas (2019) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0041",
+      "institusi_mitra_id": "M23",
+      "tahun_terbit": 2015,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.88,
+      "judul": "Kolaborasi riset dengan University of Cape Town (2015) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0042",
+      "institusi_mitra_id": "M23",
+      "tahun_terbit": 2016,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.93,
+      "judul": "Kolaborasi riset dengan University of Cape Town (2016) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0043",
+      "institusi_mitra_id": "M23",
+      "tahun_terbit": 2017,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.93,
+      "judul": "Kolaborasi riset dengan University of Cape Town (2017) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0044",
+      "institusi_mitra_id": "M23",
+      "tahun_terbit": 2018,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.86,
+      "judul": "Kolaborasi riset dengan University of Cape Town (2018) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0045",
+      "institusi_mitra_id": "M24",
+      "tahun_terbit": 2017,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.75,
+      "judul": "Kolaborasi riset dengan Nanjing University (2017) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0046",
+      "institusi_mitra_id": "M24",
+      "tahun_terbit": 2018,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.66,
+      "judul": "Kolaborasi riset dengan Nanjing University (2018) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0047",
+      "institusi_mitra_id": "M24",
+      "tahun_terbit": 2019,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.77,
+      "judul": "Kolaborasi riset dengan Nanjing University (2019) (contoh)",
+      "sumber_data": "SciVal"
+    },
+    {
+      "id": "P0048",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.31,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2024) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0049",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.37,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2025) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0050",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.29,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2025) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0051",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.32,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2023) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0052",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.41,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2026) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0053",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.38,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2026) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0054",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.37,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2026) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0055",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.55,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2023) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0056",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.4,
+      "judul": "Studi domestik oleh Tri Achmadi, Ir., Ph.D. (2023) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0057",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.37,
+      "judul": "Studi domestik oleh Dosen 01 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0058",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.95,
+      "judul": "Studi domestik oleh Dosen 02 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0059",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.73,
+      "judul": "Studi domestik oleh Dosen 02 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0060",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.46,
+      "judul": "Studi domestik oleh Dosen 02 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0061",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.49,
+      "judul": "Studi domestik oleh Dosen 03 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0062",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.92,
+      "judul": "Studi domestik oleh I Gde Manik Sukanegara Adhita, S.T., M.MST., Ph.D. (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0063",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.16,
+      "judul": "Studi domestik oleh I Gde Manik Sukanegara Adhita, S.T., M.MST., Ph.D. (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0064",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 1.34,
+      "judul": "Studi domestik oleh Thariq Arafatul Akbar, S.T., M.T. (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0065",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 1.92,
+      "judul": "Studi domestik oleh Erzad Iskandar Putra (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0066",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.13,
+      "judul": "Studi domestik oleh Dosen 04 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0067",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.71,
+      "judul": "Studi domestik oleh Dosen 04 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0068",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.45,
+      "judul": "Studi domestik oleh Dosen 04 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0069",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 1.6,
+      "judul": "Studi domestik oleh Gagatsatya Adiatmaja, S.T., M.Kom. (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0070",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.91,
+      "judul": "Studi domestik oleh Gagatsatya Adiatmaja, S.T., M.Kom. (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0071",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.33,
+      "judul": "Studi domestik oleh Dosen 05 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0072",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.51,
+      "judul": "Studi domestik oleh Dosen 06 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0073",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.18,
+      "judul": "Studi domestik oleh Dosen 07 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0074",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.41,
+      "judul": "Studi domestik oleh Dosen 07 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0075",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.3,
+      "judul": "Studi domestik oleh Ilham Gurat Adillion, S.Kom., M.Kom. (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0076",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.4,
+      "judul": "Studi domestik oleh Tohari Ahmad (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0077",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.17,
+      "judul": "Studi domestik oleh Dosen 08 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0078",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.52,
+      "judul": "Studi domestik oleh Dosen 09 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0079",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.71,
+      "judul": "Studi domestik oleh Dosen 09 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0080",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.49,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2025) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0081",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.28,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2023) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0082",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.36,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2025) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0083",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.39,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2025) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0084",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.45,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2022) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0085",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.27,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2022) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0086",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.49,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2024) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0087",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.32,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2022) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0088",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.41,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2023) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0089",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.38,
+      "judul": "Studi domestik oleh Achmad Affandi, Dr., Ir., DEA (2023) (contoh watchlist)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0090",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.87,
+      "judul": "Studi domestik oleh Dosen 10 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0091",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.47,
+      "judul": "Studi domestik oleh Dosen 10 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0092",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.87,
+      "judul": "Studi domestik oleh Dosen 11 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0093",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.13,
+      "judul": "Studi domestik oleh Dosen 11 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0094",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.58,
+      "judul": "Studi domestik oleh Dosen 11 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0095",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.63,
+      "judul": "Studi domestik oleh Dosen 12 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0096",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.93,
+      "judul": "Studi domestik oleh Dosen 13 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0097",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.13,
+      "judul": "Studi domestik oleh Dosen 13 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0098",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.4,
+      "judul": "Studi domestik oleh Dosen 14 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0099",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.83,
+      "judul": "Studi domestik oleh Dosen 15 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0100",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.15,
+      "judul": "Studi domestik oleh Dosen 15 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0101",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.93,
+      "judul": "Studi domestik oleh Dosen 15 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0102",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.42,
+      "judul": "Studi domestik oleh Dosen 16 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0103",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.81,
+      "judul": "Studi domestik oleh Dosen 17 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0104",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.35,
+      "judul": "Studi domestik oleh Dosen 18 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0105",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.84,
+      "judul": "Studi domestik oleh Dosen 19 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0106",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.52,
+      "judul": "Studi domestik oleh Dosen 19 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0107",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.44,
+      "judul": "Studi domestik oleh Dosen 20 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0108",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 1.58,
+      "judul": "Studi domestik oleh Dosen 21 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0109",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 1.36,
+      "judul": "Studi domestik oleh Dosen 21 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0110",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.66,
+      "judul": "Studi domestik oleh Dosen 22 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0111",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.89,
+      "judul": "Studi domestik oleh Dosen 22 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0112",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.78,
+      "judul": "Studi domestik oleh Dosen 22 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0113",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 1.34,
+      "judul": "Studi domestik oleh Dosen 23 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0114",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 1.69,
+      "judul": "Studi domestik oleh Dosen 23 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0115",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.75,
+      "judul": "Studi domestik oleh Dosen 24 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0116",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.56,
+      "judul": "Studi domestik oleh Dosen 24 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0117",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.88,
+      "judul": "Studi domestik oleh Dosen 25 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0118",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.73,
+      "judul": "Studi domestik oleh Dosen 25 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0119",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.71,
+      "judul": "Studi domestik oleh Dosen 26 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0120",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.52,
+      "judul": "Studi domestik oleh Dosen 27 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0121",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.24,
+      "judul": "Studi domestik oleh Dosen 28 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0122",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.49,
+      "judul": "Studi domestik oleh Dosen 28 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0123",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.72,
+      "judul": "Studi domestik oleh Dosen 29 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0124",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.03,
+      "judul": "Studi domestik oleh Dosen 29 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0125",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.83,
+      "judul": "Studi domestik oleh Dosen 29 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0126",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.72,
+      "judul": "Studi domestik oleh Dosen 30 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0127",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.96,
+      "judul": "Studi domestik oleh Dosen 31 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0128",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.77,
+      "judul": "Studi domestik oleh Dosen 32 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0129",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.6,
+      "judul": "Studi domestik oleh Dosen 32 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0130",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.66,
+      "judul": "Studi domestik oleh Dosen 32 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0131",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.64,
+      "judul": "Studi domestik oleh Dosen 33 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0132",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.37,
+      "judul": "Studi domestik oleh Dosen 33 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0133",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.69,
+      "judul": "Studi domestik oleh Dosen 33 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0134",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.65,
+      "judul": "Studi domestik oleh Dosen 34 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0135",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.42,
+      "judul": "Studi domestik oleh Dosen 34 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0136",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.42,
+      "judul": "Studi domestik oleh Dosen 35 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0137",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.17,
+      "judul": "Studi domestik oleh Dosen 35 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0138",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.35,
+      "judul": "Studi domestik oleh Dosen 36 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0139",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.94,
+      "judul": "Studi domestik oleh Dosen 36 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0140",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.31,
+      "judul": "Studi domestik oleh Dosen 36 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0141",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.97,
+      "judul": "Studi domestik oleh Dosen 37 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0142",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.28,
+      "judul": "Studi domestik oleh Dosen 37 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0143",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.3,
+      "judul": "Studi domestik oleh Dosen 38 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0144",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.9,
+      "judul": "Studi domestik oleh Dosen 38 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0145",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2023,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.42,
+      "judul": "Studi domestik oleh Dosen 39 (2023) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0146",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2024,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.43,
+      "judul": "Studi domestik oleh Dosen 39 (2024) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0147",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2022,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.81,
+      "judul": "Studi domestik oleh Dosen 39 (2022) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0148",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2025,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.49,
+      "judul": "Studi domestik oleh Dosen 40 (2025) (contoh)",
+      "sumber_data": "Scholar API"
+    },
+    {
+      "id": "P0149",
+      "institusi_mitra_id": null,
+      "tahun_terbit": 2026,
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.01,
+      "judul": "Studi domestik oleh Dosen 40 (2026) (contoh)",
+      "sumber_data": "Scholar API"
+    }
+  ],
+  "publikasiPenulis": [
+    {
+      "publikasi_id": "P0001",
+      "dosen_id": "DS002"
+    },
+    {
+      "publikasi_id": "P0002",
+      "dosen_id": "DS016"
+    },
+    {
+      "publikasi_id": "P0003",
+      "dosen_id": "DS048"
+    },
+    {
+      "publikasi_id": "P0004",
+      "dosen_id": "DS048"
+    },
+    {
+      "publikasi_id": "P0005",
+      "dosen_id": "DS006"
+    },
+    {
+      "publikasi_id": "P0006",
+      "dosen_id": "DS003"
+    },
+    {
+      "publikasi_id": "P0007",
+      "dosen_id": "DS014"
+    },
+    {
+      "publikasi_id": "P0008",
+      "dosen_id": "DS039"
+    },
+    {
+      "publikasi_id": "P0009",
+      "dosen_id": "DS013"
+    },
+    {
+      "publikasi_id": "P0010",
+      "dosen_id": "DS018"
+    },
+    {
+      "publikasi_id": "P0011",
+      "dosen_id": "DS018"
+    },
+    {
+      "publikasi_id": "P0012",
+      "dosen_id": "DS018"
+    },
+    {
+      "publikasi_id": "P0013",
+      "dosen_id": "DS018"
+    },
+    {
+      "publikasi_id": "P0014",
+      "dosen_id": "DS018"
+    },
+    {
+      "publikasi_id": "P0015",
+      "dosen_id": "DS011"
+    },
+    {
+      "publikasi_id": "P0016",
+      "dosen_id": "DS022"
+    },
+    {
+      "publikasi_id": "P0017",
+      "dosen_id": "DS014"
+    },
+    {
+      "publikasi_id": "P0018",
+      "dosen_id": "DS022"
+    },
+    {
+      "publikasi_id": "P0019",
+      "dosen_id": "DS025"
+    },
+    {
+      "publikasi_id": "P0020",
+      "dosen_id": "DS023"
+    },
+    {
+      "publikasi_id": "P0021",
+      "dosen_id": "DS003"
+    },
+    {
+      "publikasi_id": "P0022",
+      "dosen_id": "DS035"
+    },
+    {
+      "publikasi_id": "P0023",
+      "dosen_id": "DS025"
+    },
+    {
+      "publikasi_id": "P0024",
+      "dosen_id": "DS005"
+    },
+    {
+      "publikasi_id": "P0025",
+      "dosen_id": "DS005"
+    },
+    {
+      "publikasi_id": "P0026",
+      "dosen_id": "DS007"
+    },
+    {
+      "publikasi_id": "P0027",
+      "dosen_id": "DS014"
+    },
+    {
+      "publikasi_id": "P0028",
+      "dosen_id": "DS013"
+    },
+    {
+      "publikasi_id": "P0029",
+      "dosen_id": "DS003"
+    },
+    {
+      "publikasi_id": "P0030",
+      "dosen_id": "DS019"
+    },
+    {
+      "publikasi_id": "P0031",
+      "dosen_id": "DS015"
+    },
+    {
+      "publikasi_id": "P0032",
+      "dosen_id": "DS025"
+    },
+    {
+      "publikasi_id": "P0033",
+      "dosen_id": "DS041"
+    },
+    {
+      "publikasi_id": "P0034",
+      "dosen_id": "DS011"
+    },
+    {
+      "publikasi_id": "P0035",
+      "dosen_id": "DS014"
+    },
+    {
+      "publikasi_id": "P0036",
+      "dosen_id": "DS045"
+    },
+    {
+      "publikasi_id": "P0037",
+      "dosen_id": "DS042"
+    },
+    {
+      "publikasi_id": "P0038",
+      "dosen_id": "DS041"
+    },
+    {
+      "publikasi_id": "P0039",
+      "dosen_id": "DS047"
+    },
+    {
+      "publikasi_id": "P0040",
+      "dosen_id": "DS030"
+    },
+    {
+      "publikasi_id": "P0041",
+      "dosen_id": "DS041"
+    },
+    {
+      "publikasi_id": "P0042",
+      "dosen_id": "DS015"
+    },
+    {
+      "publikasi_id": "P0043",
+      "dosen_id": "DS004"
+    },
+    {
+      "publikasi_id": "P0044",
+      "dosen_id": "DS003"
+    },
+    {
+      "publikasi_id": "P0045",
+      "dosen_id": "DS026"
+    },
+    {
+      "publikasi_id": "P0046",
+      "dosen_id": "DS014"
+    },
+    {
+      "publikasi_id": "P0047",
+      "dosen_id": "DS037"
+    },
+    {
+      "publikasi_id": "P0048",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0049",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0050",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0051",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0052",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0053",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0054",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0055",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0056",
+      "dosen_id": "DS001"
+    },
+    {
+      "publikasi_id": "P0057",
+      "dosen_id": "DS002"
+    },
+    {
+      "publikasi_id": "P0058",
+      "dosen_id": "DS003"
+    },
+    {
+      "publikasi_id": "P0059",
+      "dosen_id": "DS003"
+    },
+    {
+      "publikasi_id": "P0060",
+      "dosen_id": "DS003"
+    },
+    {
+      "publikasi_id": "P0061",
+      "dosen_id": "DS004"
+    },
+    {
+      "publikasi_id": "P0062",
+      "dosen_id": "DS005"
+    },
+    {
+      "publikasi_id": "P0063",
+      "dosen_id": "DS005"
+    },
+    {
+      "publikasi_id": "P0064",
+      "dosen_id": "DS006"
+    },
+    {
+      "publikasi_id": "P0065",
+      "dosen_id": "DS007"
+    },
+    {
+      "publikasi_id": "P0066",
+      "dosen_id": "DS008"
+    },
+    {
+      "publikasi_id": "P0067",
+      "dosen_id": "DS008"
+    },
+    {
+      "publikasi_id": "P0068",
+      "dosen_id": "DS008"
+    },
+    {
+      "publikasi_id": "P0069",
+      "dosen_id": "DS009"
+    },
+    {
+      "publikasi_id": "P0070",
+      "dosen_id": "DS009"
+    },
+    {
+      "publikasi_id": "P0071",
+      "dosen_id": "DS010"
+    },
+    {
+      "publikasi_id": "P0072",
+      "dosen_id": "DS011"
+    },
+    {
+      "publikasi_id": "P0073",
+      "dosen_id": "DS012"
+    },
+    {
+      "publikasi_id": "P0074",
+      "dosen_id": "DS012"
+    },
+    {
+      "publikasi_id": "P0075",
+      "dosen_id": "DS013"
+    },
+    {
+      "publikasi_id": "P0076",
+      "dosen_id": "DS014"
+    },
+    {
+      "publikasi_id": "P0077",
+      "dosen_id": "DS015"
+    },
+    {
+      "publikasi_id": "P0078",
+      "dosen_id": "DS016"
+    },
+    {
+      "publikasi_id": "P0079",
+      "dosen_id": "DS016"
+    },
+    {
+      "publikasi_id": "P0080",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0081",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0082",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0083",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0084",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0085",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0086",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0087",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0088",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0089",
+      "dosen_id": "DS017"
+    },
+    {
+      "publikasi_id": "P0090",
+      "dosen_id": "DS018"
+    },
+    {
+      "publikasi_id": "P0091",
+      "dosen_id": "DS018"
+    },
+    {
+      "publikasi_id": "P0092",
+      "dosen_id": "DS019"
+    },
+    {
+      "publikasi_id": "P0093",
+      "dosen_id": "DS019"
+    },
+    {
+      "publikasi_id": "P0094",
+      "dosen_id": "DS019"
+    },
+    {
+      "publikasi_id": "P0095",
+      "dosen_id": "DS020"
+    },
+    {
+      "publikasi_id": "P0096",
+      "dosen_id": "DS021"
+    },
+    {
+      "publikasi_id": "P0097",
+      "dosen_id": "DS021"
+    },
+    {
+      "publikasi_id": "P0098",
+      "dosen_id": "DS022"
+    },
+    {
+      "publikasi_id": "P0099",
+      "dosen_id": "DS023"
+    },
+    {
+      "publikasi_id": "P0100",
+      "dosen_id": "DS023"
+    },
+    {
+      "publikasi_id": "P0101",
+      "dosen_id": "DS023"
+    },
+    {
+      "publikasi_id": "P0102",
+      "dosen_id": "DS024"
+    },
+    {
+      "publikasi_id": "P0103",
+      "dosen_id": "DS025"
+    },
+    {
+      "publikasi_id": "P0104",
+      "dosen_id": "DS026"
+    },
+    {
+      "publikasi_id": "P0105",
+      "dosen_id": "DS027"
+    },
+    {
+      "publikasi_id": "P0106",
+      "dosen_id": "DS027"
+    },
+    {
+      "publikasi_id": "P0107",
+      "dosen_id": "DS028"
+    },
+    {
+      "publikasi_id": "P0108",
+      "dosen_id": "DS029"
+    },
+    {
+      "publikasi_id": "P0109",
+      "dosen_id": "DS029"
+    },
+    {
+      "publikasi_id": "P0110",
+      "dosen_id": "DS030"
+    },
+    {
+      "publikasi_id": "P0111",
+      "dosen_id": "DS030"
+    },
+    {
+      "publikasi_id": "P0112",
+      "dosen_id": "DS030"
+    },
+    {
+      "publikasi_id": "P0113",
+      "dosen_id": "DS031"
+    },
+    {
+      "publikasi_id": "P0114",
+      "dosen_id": "DS031"
+    },
+    {
+      "publikasi_id": "P0115",
+      "dosen_id": "DS032"
+    },
+    {
+      "publikasi_id": "P0116",
+      "dosen_id": "DS032"
+    },
+    {
+      "publikasi_id": "P0117",
+      "dosen_id": "DS033"
+    },
+    {
+      "publikasi_id": "P0118",
+      "dosen_id": "DS033"
+    },
+    {
+      "publikasi_id": "P0119",
+      "dosen_id": "DS034"
+    },
+    {
+      "publikasi_id": "P0120",
+      "dosen_id": "DS035"
+    },
+    {
+      "publikasi_id": "P0121",
+      "dosen_id": "DS036"
+    },
+    {
+      "publikasi_id": "P0122",
+      "dosen_id": "DS036"
+    },
+    {
+      "publikasi_id": "P0123",
+      "dosen_id": "DS037"
+    },
+    {
+      "publikasi_id": "P0124",
+      "dosen_id": "DS037"
+    },
+    {
+      "publikasi_id": "P0125",
+      "dosen_id": "DS037"
+    },
+    {
+      "publikasi_id": "P0126",
+      "dosen_id": "DS038"
+    },
+    {
+      "publikasi_id": "P0127",
+      "dosen_id": "DS039"
+    },
+    {
+      "publikasi_id": "P0128",
+      "dosen_id": "DS040"
+    },
+    {
+      "publikasi_id": "P0129",
+      "dosen_id": "DS040"
+    },
+    {
+      "publikasi_id": "P0130",
+      "dosen_id": "DS040"
+    },
+    {
+      "publikasi_id": "P0131",
+      "dosen_id": "DS041"
+    },
+    {
+      "publikasi_id": "P0132",
+      "dosen_id": "DS041"
+    },
+    {
+      "publikasi_id": "P0133",
+      "dosen_id": "DS041"
+    },
+    {
+      "publikasi_id": "P0134",
+      "dosen_id": "DS042"
+    },
+    {
+      "publikasi_id": "P0135",
+      "dosen_id": "DS042"
+    },
+    {
+      "publikasi_id": "P0136",
+      "dosen_id": "DS043"
+    },
+    {
+      "publikasi_id": "P0137",
+      "dosen_id": "DS043"
+    },
+    {
+      "publikasi_id": "P0138",
+      "dosen_id": "DS044"
+    },
+    {
+      "publikasi_id": "P0139",
+      "dosen_id": "DS044"
+    },
+    {
+      "publikasi_id": "P0140",
+      "dosen_id": "DS044"
+    },
+    {
+      "publikasi_id": "P0141",
+      "dosen_id": "DS045"
+    },
+    {
+      "publikasi_id": "P0142",
+      "dosen_id": "DS045"
+    },
+    {
+      "publikasi_id": "P0143",
+      "dosen_id": "DS046"
+    },
+    {
+      "publikasi_id": "P0144",
+      "dosen_id": "DS046"
+    },
+    {
+      "publikasi_id": "P0145",
+      "dosen_id": "DS047"
+    },
+    {
+      "publikasi_id": "P0146",
+      "dosen_id": "DS047"
+    },
+    {
+      "publikasi_id": "P0147",
+      "dosen_id": "DS047"
+    },
+    {
+      "publikasi_id": "P0148",
+      "dosen_id": "DS048"
+    },
+    {
+      "publikasi_id": "P0149",
+      "dosen_id": "DS048"
+    }
+  ],
+  "naskahPipeline": [
+    {
+      "id": "N001",
+      "institusi_mitra_id": "M07",
+      "judul": "Structural Fatigue Analysis of Offshore Wind Turbine Foundations (contoh)",
+      "bidang_qs": "Engineering and Technology",
+      "status_naskah": "Under review",
+      "target_jurnal": "Ocean Engineering",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS005"
+    },
+    {
+      "id": "N002",
+      "institusi_mitra_id": "M08",
+      "judul": "Hybrid Propulsion System Efficiency for Short-Sea Shipping (contoh)",
+      "bidang_qs": "Engineering and Technology",
+      "status_naskah": "Submitted",
+      "target_jurnal": "Applied Energy",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS007"
+    },
+    {
+      "id": "N003",
+      "institusi_mitra_id": "M08",
+      "judul": "Life Cycle Cost Comparison of Alternative Marine Fuels (contoh)",
+      "bidang_qs": "Engineering and Technology",
+      "status_naskah": "Dalam penyusunan",
+      "target_jurnal": "Transportation Research Part D",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS007"
+    },
+    {
+      "id": "N004",
+      "institusi_mitra_id": "M09",
+      "judul": "Lightweight Deep Learning Model for Medical Image Steganalysis (contoh)",
+      "bidang_qs": "Engineering and Technology",
+      "status_naskah": "Under review",
+      "target_jurnal": "IEEE Access",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS014"
+    },
+    {
+      "id": "N005",
+      "institusi_mitra_id": "M10",
+      "judul": "Machine Learning-Based Material Discovery for Sensor Applications (contoh)",
+      "bidang_qs": "Natural Sciences",
+      "status_naskah": "Submitted",
+      "target_jurnal": "Advanced Materials",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS021"
+    },
+    {
+      "id": "N006",
+      "institusi_mitra_id": "M11",
+      "judul": "Cross-Border Collaborative Framework for Renewable Energy Policy (contoh)",
+      "bidang_qs": "Natural Sciences",
+      "status_naskah": "Dalam penyusunan",
+      "target_jurnal": "Energy Policy",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS021"
+    },
+    {
+      "id": "N007",
+      "institusi_mitra_id": "M11",
+      "judul": "Comparative Analysis of ASEAN Smart Grid Readiness (contoh)",
+      "bidang_qs": "Natural Sciences",
+      "status_naskah": "Draft internal",
+      "target_jurnal": "Energy Policy",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS021"
+    },
+    {
+      "id": "N008",
+      "institusi_mitra_id": "M11",
+      "judul": "Data-Driven Approach to Regional Energy Security (contoh)",
+      "bidang_qs": "Natural Sciences",
+      "status_naskah": "Dalam penyusunan",
+      "target_jurnal": "Energy Policy",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS021"
+    },
+    {
+      "id": "N009",
+      "institusi_mitra_id": "M12",
+      "judul": "Epidemiological Modeling of Tropical Disease Spread in Coastal Communities (contoh)",
+      "bidang_qs": "Life Sciences and Medicine",
+      "status_naskah": "Under review",
+      "target_jurnal": "The Lancet Regional Health",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS033"
+    },
+    {
+      "id": "N010",
+      "institusi_mitra_id": "M13",
+      "judul": "Smart Grid Load Balancing Using Renewable Energy Sources (contoh)",
+      "bidang_qs": "Engineering and Technology",
+      "status_naskah": "Submitted",
+      "target_jurnal": "IEEE Transactions on Smart Grid",
+      "estimasi_tahun_terbit": 2028,
+      "dosen_id": "DS020"
+    },
+    {
+      "id": "N011",
+      "institusi_mitra_id": "M01",
+      "judul": "Advanced Photonic Sensor Design for Marine Environmental Monitoring (contoh)",
+      "bidang_qs": "Natural Sciences",
+      "status_naskah": "Under review",
+      "target_jurnal": "Sensors and Actuators B",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS021"
+    },
+    {
+      "id": "N012",
+      "institusi_mitra_id": "M01",
+      "judul": "Quantum-Enhanced Computational Methods for Materials Science (contoh)",
+      "bidang_qs": "Natural Sciences",
+      "status_naskah": "Dalam penyusunan",
+      "target_jurnal": "Physical Review Materials",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS021"
+    },
+    {
+      "id": "N013",
+      "institusi_mitra_id": "M03",
+      "judul": "Autonomous Underwater Vehicle Navigation Using Reinforcement Learning (contoh)",
+      "bidang_qs": "Engineering and Technology",
+      "status_naskah": "Submitted",
+      "target_jurnal": "IEEE Journal of Oceanic Engineering",
+      "estimasi_tahun_terbit": 2027,
+      "dosen_id": "DS001"
+    }
+  ],
+  "universitasPembanding": [
+    {
+      "id": "U01",
+      "nama_universitas": "ITB",
+      "tahun_data": 2026,
+      "rank_qs_overall": "Belum terverifikasi",
+      "L_negara_sustained_agregat": 14,
+      "P_institusi_sustained_agregat": 22
+    },
+    {
+      "id": "U02",
+      "nama_universitas": "Universitas Indonesia",
+      "tahun_data": 2026,
+      "rank_qs_overall": 189,
+      "L_negara_sustained_agregat": 12,
+      "P_institusi_sustained_agregat": 19
+    },
+    {
+      "id": "U03",
+      "nama_universitas": "UTM",
+      "tahun_data": 2026,
+      "rank_qs_overall": 153,
+      "L_negara_sustained_agregat": 18,
+      "P_institusi_sustained_agregat": 27
+    },
+    {
+      "id": "U04",
+      "nama_universitas": "TU Delft",
+      "tahun_data": 2026,
+      "rank_qs_overall": 47,
+      "L_negara_sustained_agregat": 31,
+      "P_institusi_sustained_agregat": 48
+    },
+    {
+      "id": "U05",
+      "nama_universitas": "NTU Singapore",
+      "tahun_data": 2026,
+      "rank_qs_overall": 12,
+      "L_negara_sustained_agregat": 35,
+      "P_institusi_sustained_agregat": 56
+    }
+  ],
+  "universitasPembandingFwci": [
+    {
+      "universitas_id": "U01",
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.1
+    },
+    {
+      "universitas_id": "U01",
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.9
+    },
+    {
+      "universitas_id": "U01",
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.75
+    },
+    {
+      "universitas_id": "U01",
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.8
+    },
+    {
+      "universitas_id": "U01",
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.5
+    },
+    {
+      "universitas_id": "U02",
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 0.7
+    },
+    {
+      "universitas_id": "U02",
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.68
+    },
+    {
+      "universitas_id": "U02",
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.9
+    },
+    {
+      "universitas_id": "U02",
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.85
+    },
+    {
+      "universitas_id": "U02",
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.65
+    },
+    {
+      "universitas_id": "U03",
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.3
+    },
+    {
+      "universitas_id": "U03",
+      "bidang_qs": "Natural Sciences",
+      "fwci": 0.95
+    },
+    {
+      "universitas_id": "U03",
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 0.6
+    },
+    {
+      "universitas_id": "U03",
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.5
+    },
+    {
+      "universitas_id": "U03",
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.3
+    },
+    {
+      "universitas_id": "U04",
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.62
+    },
+    {
+      "universitas_id": "U04",
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.1
+    },
+    {
+      "universitas_id": "U04",
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1
+    },
+    {
+      "universitas_id": "U04",
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 0.9
+    },
+    {
+      "universitas_id": "U04",
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.7
+    },
+    {
+      "universitas_id": "U05",
+      "bidang_qs": "Engineering and Technology",
+      "fwci": 1.9
+    },
+    {
+      "universitas_id": "U05",
+      "bidang_qs": "Natural Sciences",
+      "fwci": 1.7
+    },
+    {
+      "universitas_id": "U05",
+      "bidang_qs": "Life Sciences and Medicine",
+      "fwci": 1.4
+    },
+    {
+      "universitas_id": "U05",
+      "bidang_qs": "Social Sciences and Management",
+      "fwci": 1.1
+    },
+    {
+      "universitas_id": "U05",
+      "bidang_qs": "Arts and Humanities",
+      "fwci": 0.8
+    }
+  ],
+  "metrikItsTahunan": [
+    {
+      "tahun": 2022,
+      "bidang_qs": null,
+      "rank_qs_overall": 560,
+      "fwci_rata_rata": 0.58,
+      "skor_irn_resmi": "Belum dirilis QS"
+    },
+    {
+      "tahun": 2023,
+      "bidang_qs": null,
+      "rank_qs_overall": 545,
+      "fwci_rata_rata": 0.6,
+      "skor_irn_resmi": "Belum dirilis QS"
+    },
+    {
+      "tahun": 2024,
+      "bidang_qs": null,
+      "rank_qs_overall": 530,
+      "fwci_rata_rata": 0.63,
+      "skor_irn_resmi": "Belum dirilis QS"
+    },
+    {
+      "tahun": 2025,
+      "bidang_qs": null,
+      "rank_qs_overall": 515,
+      "fwci_rata_rata": 0.66,
+      "skor_irn_resmi": "Belum dirilis QS"
+    },
+    {
+      "tahun": 2026,
+      "bidang_qs": null,
+      "rank_qs_overall": 506,
+      "fwci_rata_rata": 0.7,
+      "skor_irn_resmi": "Belum dirilis QS"
+    }
+  ],
+  "kolaborasiPembanding": [
+    {
+      "universitas_id": "U01",
+      "nama_institusi_mitra": "RWTH Aachen",
+      "negara": "Jerman",
+      "bidang_qs": "Engineering and Technology"
+    },
+    {
+      "universitas_id": "U01",
+      "nama_institusi_mitra": "École Polytechnique",
+      "negara": "Prancis",
+      "bidang_qs": "Social Sciences and Management"
+    },
+    {
+      "universitas_id": "U02",
+      "nama_institusi_mitra": "University of Melbourne",
+      "negara": "Australia",
+      "bidang_qs": "Life Sciences and Medicine"
+    },
+    {
+      "universitas_id": "U02",
+      "nama_institusi_mitra": "Harvard T.H. Chan School of Public Health",
+      "negara": "Amerika Serikat",
+      "bidang_qs": "Life Sciences and Medicine"
+    },
+    {
+      "universitas_id": "U03",
+      "nama_institusi_mitra": "KAIST",
+      "negara": "Korea Selatan",
+      "bidang_qs": "Natural Sciences"
+    },
+    {
+      "universitas_id": "U03",
+      "nama_institusi_mitra": "King Abdulaziz University",
+      "negara": "Arab Saudi",
+      "bidang_qs": "Engineering and Technology"
+    },
+    {
+      "universitas_id": "U04",
+      "nama_institusi_mitra": "TU Munich",
+      "negara": "Jerman",
+      "bidang_qs": "Engineering and Technology"
+    },
+    {
+      "universitas_id": "U04",
+      "nama_institusi_mitra": "NTNU",
+      "negara": "Norwegia",
+      "bidang_qs": "Natural Sciences"
+    },
+    {
+      "universitas_id": "U05",
+      "nama_institusi_mitra": "Tsinghua University",
+      "negara": "Tiongkok",
+      "bidang_qs": "Social Sciences and Management"
+    },
+    {
+      "universitas_id": "U05",
+      "nama_institusi_mitra": "MIT",
+      "negara": "Amerika Serikat",
+      "bidang_qs": "Engineering and Technology"
+    }
+  ]
+}
